@@ -1,0 +1,13 @@
+4) ¿Para qué se usa Javascript?
+
+- Dinamismo de los sitios web
+- Servidor en NodeJS
+- Tecnologías Frontend como "Angular", "React" o "Vue.JS"
+
+
+Otros usos no tan comunes:
+- Inteligencia artificial
+- Placas electrónicas (Jhonny Five)
+- Mobile Apps
+- Desktop Apps
+- ETC

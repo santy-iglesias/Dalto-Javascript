@@ -1,0 +1,19 @@
+1) Introducción - ¿Qué es Javascript?
+
+- Lenguaje de programación
+
+- Interpretado (No es necesario un compilador para su ejecución)
+
+- Orientado a objetos
+
+- Imperativo
+
+- Case sensitive (es sensible a MAYÚSCULAS y minúsculas)
+
+- Tipado débil    (Permite que una variable pueda ser un numero, despues un texto, etc)
+
+- Lenguaje dinámico   (La variable se adapta al dato)
+
+
+Javascript esta contruido sobre ECMASCRIPT (tiene distintas versiones que se van
+actualizando con el tiempo).

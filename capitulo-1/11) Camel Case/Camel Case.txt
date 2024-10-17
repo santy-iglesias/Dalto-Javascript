@@ -1,0 +1,4 @@
+El "Camel Case" es una forma de escribir variables / funciones utilizada para cuando se tiene más de una palabra. Por ejemplo: "decimeAlgoPorFavor", "mostrarDatos",
+"ingresarDatos", etc.
+
+Si tenemos más de una palabra en una oración, la primera empieza con minúscula y las demás comienzan con mayúscula.
