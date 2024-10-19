@@ -1,0 +1,13 @@
+Bucles e Iteraciones en Javascript
+
+- sentencia "while"
+- sentencia "do while"
+- sentencia "for"
+- sentencia "for in"
+- sentencia "for of"
+
+-------------------------------------------------------
+
+- sentencia "break"
+- sentencia "label"
+- sentencia "continue"
