@@ -1,0 +1,1 @@
+El objeto "Window" hace referencia a la ventana del navegador y es el objeto más grande del DOM. Window está en la más alta jerarquía de Javascript.
