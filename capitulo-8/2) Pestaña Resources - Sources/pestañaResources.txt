@@ -1,0 +1,22 @@
+                                                        Pestaña Resources / Sources
+
+Al abrir el documento html en el navegador, apretar click derecho y seleccionar "Inspeccionar elemento", de esta forma se abrirán todas las pestañas
+que se verán durante este capítulo. (Estoy haciendolo desde "Opera")
+
+
+En la pestaña "Resources / Sources" podemos observar todos los documentos asociados a la página en la que estamos trabajando. Allí podemos
+modificarlos y guardar los cambios realizados sin necesidad de volver al editor de codigo. Los cambios realizados y guardados desde el navegador se
+agregarán al editor de codigo.
+
+
+En el apartado "Workspace" se pueden abrir otras carpetas con otros codigos y de esta forma modificarlos en caso de ser necesario y guardar sus
+cambios.
+
+
+
+Los "Snippets" son fragmentos de codigo Javascript que se ejecutan cuando nosotros queramos. Para acceder a "Snippets" tocar las ">>" que se 
+encuentran a la derecha de "Page" y seleccionar esta opcion. 
+
+Para crear un "Snippet" tocar en "New snippet" y escribir el codigo que queramos.
+
+Para ejecutar el Snippet apretar " Cntl + ENTER ";

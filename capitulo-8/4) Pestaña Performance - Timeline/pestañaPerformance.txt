@@ -1,0 +1,20 @@
+                                                        Pestaña Performance / Timeline
+
+Al abrir el documento html en el navegador, apretar click derecho y seleccionar "Inspeccionar elemento", de esta forma se abrirán todas las pestañas
+que se verán durante este capítulo. (Estoy haciendolo desde "Opera")
+
+
+En la pestaña "Performance monitor" podemos ver los recursos que está consumiendo nuestra computadora al cargar una página. Para abrir esta
+pestaña debemos dirigirnos a la parte baja de la pantalla y tocar los "tres puntos" a la izquierda de "Console" y agregar la pestaña. Luego dejarla 
+ejecutando un tiempo para ver cuantos recursos se están consumiendo. De esta forma, se podría optimizar la página encontrando aquellos archivos 
+que hagan que la computadora consuma más recursos de los que se requerirían.
+
+
+En la pestaña "Performance" que se encuentra en la parte alta de la pantalla se encuentran dos opciones:
+
+                                                - Grabar desde ahora
+                                                - Grabar la carga de la pagina
+
+
+A través de estas opciones podemos analizar las distintas cosas que van sucendiendo durante el tiempo de grabación y detectar cuando se están
+consumiendo más recursos de los necesarios.

@@ -1,0 +1,8 @@
+                                                        Pestaña Application
+
+Al abrir el documento html en el navegador, apretar click derecho y seleccionar "Inspeccionar elemento", de esta forma se abrirán todas las pestañas
+que se verán durante este capítulo. (Estoy haciendolo desde "Opera")
+
+
+En la pestaña "Application" podemos ver un resumen de todos los archivos que se están cargando en una página, las cookies (en caso de que tenga),
+si usa SQL o no, etc.

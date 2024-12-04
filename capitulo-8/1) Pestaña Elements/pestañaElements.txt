@@ -1,0 +1,57 @@
+                                                        Pestaña Elements
+
+Al abrir el documento html en el navegador, apretar click derecho y seleccionar "Inspeccionar elemento", de esta forma se abrirán todas las pestañas
+que se verán durante este capítulo.
+
+
+En la pestaña "Elements" podemos observar el codigo html de nuestra página junto con sus respectivos estilos en "CSS". Al seleccionar un elemento
+dentro de la sección del codigo HTML, en la pestaña de "Styles" nos aparecerá el código CSS de dicho elemento y lo podremos modificar, agregar más
+propiedades o hacer lo que queramos con ellos.
+
+
+Al hacer click derecho sobre un elemento HTML y seleccionar la opción de "Copy" aparecerán varias opciones:
+                                            - copy outerHTML
+                                            - copy selector
+                                            - copy JS path
+                                            - copy styles
+                                            - copy XPath
+                                            - copy full XPath
+
+
+
+copy outerHTML   ---->   Copia el código HTML seleccionado.
+
+copy selector   ---->   Copia el selector asociado al codigo HTML seleccionado.        (Ejemplo:  body > div > p   )
+
+
+
+copy JSPath   ---->   Copia el selector asociado al codigo HTML seleccionado y lo deja de forma que se pueda seleecionar desde Javascript.
+
+(Ejemplo:     document.querySelector("body > div > p")     )
+
+
+
+
+
+copy styles   ---->   Copia los estilos de la etiqueta HTML seleccionada.
+
+
+copy XPath   ---->   Copia el alojamiento.      (Ejemplo:    /html/body/div/p  )
+
+copy full XPath   ---->   Copia el alojamiento. Funciona igual que "copy XPath" solo que en algunos casos ofrece más información.
+
+
+
+
+Al hacer click derecho sobre un elemento HTML y seleccionar la opción de "Force state" aparecerán varias opciones:
+                                                - :active
+                                                - :hover
+                                                - :focus
+                                                - :visited
+                                                - :focus-within
+                                                - :focus-visible
+
+Cada una de esas opciones permite poner un elemento en cada uno de esos estados y observar como quedan segun el estilo que le hayamos dado.
+
+
+El botón ":hov" que se encuentra en la pestaña "Styles" funciona igual que el "Force state".

@@ -1,0 +1,13 @@
+                                                        Pestaña Network
+
+Al abrir el documento html en el navegador, apretar click derecho y seleccionar "Inspeccionar elemento", de esta forma se abrirán todas las pestañas
+que se verán durante este capítulo. (Estoy haciendolo desde "Opera")
+
+
+En la pestaña "Network" podemos ver todos los archivos que se cargan cuando abrimos alguna página. De esta manera podemos realizar optimizaciones a 
+los archivos que las requieran y mejorar el tiempo de carga de una página.
+
+
+Al hacer click derecho y seleccionar la opción "Sort By" los archivos se ordenan dependiendo de la opción que elijamos. Por ejemplo: seleccionarseleccionamos "Name", los archivos se ordenarán por órden alfabético.
+
+La opción "Header Options" permite agregar más columnas a la tabla y poder ordenar los archivos de más maneras.
