@@ -1,0 +1,21 @@
+body {
+    color: #000;
+    font-family: sans-serif;
+}
+
+.contenedor {
+    padding: 30px;
+    background-color: rebeccapurple;
+}
+
+.input-prueba {
+    border: 1px solid #000;
+    border-radius: 5px;
+    padding: 6px;
+    color: #444;
+    outline: none;
+}
+
+.seleccionado {
+    color: red;
+}

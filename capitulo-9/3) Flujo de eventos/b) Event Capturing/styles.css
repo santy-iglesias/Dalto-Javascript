@@ -1,0 +1,14 @@
+body {
+    color: #222;
+    font-family: sans-serif;
+}
+
+.contenedor-1 {
+    padding: 30px;
+    background-color: rebeccapurple;
+}
+
+.contenedor-2 {
+    background-color: #48e;
+    padding: 30px;
+}

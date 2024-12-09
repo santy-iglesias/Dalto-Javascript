@@ -1,0 +1,20 @@
+body {
+    font-family: sans-serif;
+}
+
+.contenedor {
+    padding: 30px;
+    background-color: #48e;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 60px;
+}
+
+h2 {
+    margin: 0;
+    margin-bottom: 25px;
+}
+
+.cambio-color {
+    background-color: #f70;
+}
