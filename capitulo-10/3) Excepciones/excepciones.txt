@@ -1,0 +1,27 @@
+Excepciones y Tipos de Excepciones:
+
+Las excepciones son "errores" que se generan al ejecutar nuestro programa.
+
+Los desarrolladores pueden crear "excepciones" para mostrar los errores a otros desarrolladores o a los usuarios que interactúen con el programa.
+
+
+
+Tipos de Excepciones:
+
+            - Excepciones ECMAScript
+            - Excepciones DOMException y DOMError
+
+
+Excepciones de "Javascript":
+
+                    - Error
+                    - EvalError
+                    - InternalError
+                    - RangeError
+                    - ReferenceError
+                    - SyntaxError
+                    - TypeError
+                    - URIError
+
+
+Las "excepciones" se ejecutan en consola, por lo tanto, para verlas hay que abrirla.

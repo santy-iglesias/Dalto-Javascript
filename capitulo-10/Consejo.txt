@@ -1,0 +1,9 @@
+Todo lo visto en este capitulo debe usarse para casos específicos. En caso de saber que nuestro programa va a tener un error, primero depurar el
+código e intentar corregir el error antes de utilizar algo de lo visto.
+
+
+Esto podría utilizarse en los casos en los que tengamos calculado que un programa funcione completamente pero existan algunas situaciones que puedan
+generar errores. Ahí si es recomendado utilizar las herramientas de este capitulo. No abusar de esto.
+
+
+El "try...catch...finally" no se usa tanto como el "if", "if...else", "for", etc.
