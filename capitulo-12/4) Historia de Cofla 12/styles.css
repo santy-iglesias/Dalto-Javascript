@@ -1,0 +1,40 @@
+body {
+    color: #222;
+    font-family: sans-serif;
+}
+
+.titulo {
+    text-decoration: underline;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.materias {
+    width: 30%;
+    background-color: #ccc;
+    margin: auto;
+    font-size: 20px;
+    border: 2px solid #aaa;
+}
+
+.materia {
+    background-color: #efefef;
+    display: flex;
+}
+
+.materia div {
+    padding: 20px;
+}
+
+.materia .nota {
+    flex-basis: 20px;
+    background-color: #ddd;
+    border-left: 2px solid #aaa;
+    text-align: center;
+    font-weight: 700;
+}
+
+.materia .nombre {
+    flex-grow: 1;
+}
