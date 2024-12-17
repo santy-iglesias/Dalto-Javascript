@@ -1,0 +1,22 @@
+                                            Métodos específicos obsoletos
+
+                                
+- observe()
+
+- unobserve()
+
+- getNotifier()
+
+- watch()
+
+- unwatch()
+
+- toSource()
+
+- escape()           (la "funcion")
+
+- unescape()          (la "funcion")
+
+- uneval          (como "metodo")
+
+- eval          (como "metodo")

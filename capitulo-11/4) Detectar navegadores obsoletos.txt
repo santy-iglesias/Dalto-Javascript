@@ -1,0 +1,4 @@
+                                            Detectar navegadores obsoletos
+
+
+- Detección del navegador y cobertura a múltiplews navegadores     (PEGAR ESTO EN GOOGLE)

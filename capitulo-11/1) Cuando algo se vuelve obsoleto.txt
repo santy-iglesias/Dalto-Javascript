@@ -1,0 +1,50 @@
+                                            ¿Cuándo algo se vuelve obsoleto?
+
+
+- "Deprecated"
+- Inútil
+- No recomendado
+- Con bugs o fallos
+- Está por ser reemplazado
+- Hay mejores formas de hacerlo
+
+
+Algo "obsoleto" es algo que no es útil de acuerdo a la situación actual. A la hora de leer documentación, obsoleto en iglés es "deprecated".
+
+
+Algo se vuelve obsoleto si es eliminado su caracter de "estándar" y deja de funcionar, haciendo que hayan más líneas de código sin sentido. Por 
+otro lado, hay cosas que se vuelven obsoletas, no porque sean "inutiles", sino porque no se recomienda su uso, ya sea porque consume muchos
+recursos o lo que sea.
+
+El uso de algo obsoleto puede traer consigo "bugs o fallos" que generen errores dentro de nuestro programa.
+
+Algo puede volverse obsoleto si se sabe que está por ser reemplazado.
+
+Algo se vuelve obsoleto si existen mejores maneras de hacer lo mismo.
+
+
+
+
+
+
+                                            Efectos negativos (aplicado a métodos, clases y propiedades)
+
+
+- Uso excesivo de recursos
+- Código con Bugs o fallos
+- Código innecesariamente largo
+- Pero posicionamiento por SEO
+
+
+
+
+
+
+                                                ¿Cómo verificar si algo está obsoleto?
+
+
+- DATO: 1 de cada 3 WEBS utiliza librerías de javascript obsoletas
+
+- Verificar si tienen o usan funciones, métodos, objetos o metodologías obsoletas
+
+- Verificar en los sitios basados en estándares oficiales
