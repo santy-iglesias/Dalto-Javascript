@@ -1,0 +1,12 @@
+                                                    JSON Polyfill
+
+
+Los "Polyfill" son funciones que simulan la funcionalidad de cualquier cosa (función, método, objeto, etc) en Javascript porque el navegador
+no lo soporta.
+
+
+Por ejemplo, en caso de que un navegador no soporte los métodos de "JSON.stringify()" o "JSON.parse()", se crean funciones comunes las cuales pueden
+utilizarse dentro del programa con las mismas funcionalidades que las funciones anteriores.
+
+
+Casi ni se usa.

@@ -1,0 +1,22 @@
+body {
+    background-color: #eee;
+    font-family: sans-serif;
+}
+
+#getName , #getAge {
+    font-size: 40px;
+    margin: 20px;
+}
+
+.nombre , .edad {
+    background-color: #000;
+    color: #fff;
+    font-size: 32px;
+    margin: 5px;
+    padding: 15px;
+    display: inline-block;
+}
+
+.nombre {
+    background-color: #b00;
+}

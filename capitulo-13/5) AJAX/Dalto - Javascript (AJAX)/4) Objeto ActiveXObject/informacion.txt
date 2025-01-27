@@ -1,0 +1,4 @@
+{
+    "variable1" : "Santiago",
+    "variable2" : "Nacho"
+}

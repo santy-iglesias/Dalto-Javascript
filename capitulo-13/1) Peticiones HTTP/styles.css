@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80dvw;
+    margin: auto;
+}
+
+.explicacion {
+    width: 50dvw;
+    background-color: #48e;
+    margin: auto;
+    padding: 25px 30px;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.explicacion h2 {
+    margin: 0;
+    margin-bottom: 40px;
+}
+
+.explicacion p {
+    font-size: 20px;
+    margin-bottom: 0;
+}
